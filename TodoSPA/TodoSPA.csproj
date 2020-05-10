@@ -127,6 +127,7 @@
   <ItemGroup>
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Controllers\TestController.cs" />
     <Compile Include="Controllers\TodoListController.cs" />
     <Compile Include="DAL\TodoListServiceContext.cs" />
     <Compile Include="DAL\TodoListServiceInitializer.cs" />
